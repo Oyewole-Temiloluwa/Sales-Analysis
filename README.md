@@ -51,7 +51,7 @@ This dashboard focuses on:
 - High-value customer segmentation.
 - Sales trends by customer groups.
 
-![Customer Overview Dashboard](.\Customer_Overview.jpg)
+![Customer Overview Dashboard](Customer_Overview.jpg)
 
 ---
 
