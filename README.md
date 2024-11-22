@@ -41,7 +41,7 @@ This dashboard highlights:
 - Total revenue by region.
 - Sales contributions by product categories.
 
-![Sales Overview Dashboard](C:\Users\hp\Pictures\Screenshots\Sales_Overview.jpg)
+![Sales Overview Dashboard](.\Sales_Overview.jpg)
 
 ---
 
@@ -51,7 +51,7 @@ This dashboard focuses on:
 - High-value customer segmentation.
 - Sales trends by customer groups.
 
-![Customer Overview Dashboard](C:\Users\hp\Pictures\Screenshots\Customer_Overview.jpg)
+![Customer Overview Dashboard](.\Customer_Overview.jpg)
 
 ---
 
